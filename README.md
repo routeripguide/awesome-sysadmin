@@ -541,6 +541,7 @@ Network configuration management tools.
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
 - [RANCID](https://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
 - [rConfig](https://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
+- [Router IP Guide](https://routeripguide.com/ip/) - Comprehensive reference database for default router gateways, RFC 1918 private subnets, and OEM admin credentials.
 
 
 ### PaaS
